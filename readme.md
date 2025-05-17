@@ -17,7 +17,7 @@ MONGO_URI=<mongodb URI>
 PORT=1234
 
 RAZORPAY_KEY_ID=<razorpay_key>
-RAZORPAY_KEY_SCREATE=<razorpay_screate>
+RAZORPAY_KEY_SECRET=<razorpay_secret>
 
 FRONTEND_URI=http://localhost:3000
 ```
