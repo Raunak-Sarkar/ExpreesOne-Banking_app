@@ -1,6 +1,7 @@
 # ExpressOne Banking Application
+![log](https://github.com/user-attachments/assets/334727df-4c80-46f9-a741-03824ac834c9)
 
-![image]([https://github.com/Raunak-Sarkar/ExpreesOne-Banking_app/blob/main/frontend/public/log.svg])
+
 
 - Frontend ENV Variables
 ```env
